@@ -7,7 +7,7 @@ import sqlite3
 # git init
 # git status
 # git add .
-
+# git commit -m "Finished Project"
 def create_database():
   conn = sqlite3.connect("books.sqlite3")
   cursor = conn.cursor()

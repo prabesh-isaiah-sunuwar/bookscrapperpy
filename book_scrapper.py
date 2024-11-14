@@ -4,12 +4,19 @@ from bs4 import BeautifulSoup
 
 
 # Git tutorial
-#git config --global user.name "Prabesh Sunuwar"
-#git config --global user.email "prabeshjr1234567890@gmail.com"
+# install git
+# create repsitory in github
+
+# go to git bash
+# git config --global user.name "Prabesh Sunuwar"
+# git config --global user.email "prabeshjr1234567890@gmail.com"
+
 # git init
-# git status
-# git add .
+# git status => if you want to check what are the status of the files
+# git diff . => if you want to check what are the changes
+# git add . 
 # git commit -m "Finished Project"
+# copy paste git code from github
 
 
 #####################################
